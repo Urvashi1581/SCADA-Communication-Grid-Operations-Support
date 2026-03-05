@@ -97,7 +97,7 @@ PLC Ethernet configuration including IP addressing and communication parameters.
 
 Port connectivity was tested using PowerShell and TCP diagnostics.
 
-![Port Testing](screenshots/port_testing.png)
+![Port Testing](screenshots/port_testing.PNG)
 
 ---
 
