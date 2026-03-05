@@ -1,23 +1,17 @@
 # SCADA Communication & Grid Operations Support Lab
 
 ## Project Overview
-This project simulates a SCADA environment used in industrial automation and grid operations. 
-The goal was to understand how SCADA systems monitor, communicate, and troubleshoot industrial devices 
-such as PLCs, field sensors, and HMI systems.
-
-The lab demonstrates communication using industrial protocols, real-time monitoring, and troubleshooting 
-common operational issues.
-
----
-
-# SCADA Communication & Grid Operations Support
-
 This project simulates a real-world SCADA environment used in industrial automation and grid operations. 
 The lab demonstrates PLC integration, SCADA monitoring using Ignition, database logging, and troubleshooting 
 of industrial communication issues such as network connectivity failures, scripting errors, and port communication problems.
 
 The goal of the project was to understand how distributed industrial systems communicate and how support engineers 
 diagnose and resolve operational issues.
+
+The lab demonstrates communication using industrial protocols, real-time monitoring, and troubleshooting 
+common operational issues.
+
+---
 
 ## Technologies Used
 
