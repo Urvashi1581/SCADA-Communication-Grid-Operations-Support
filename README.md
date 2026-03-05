@@ -125,6 +125,9 @@ Each issue was analyzed using logs, network tools, and SCADA diagnostics.
 
 ---
 
+## System Architecture
+![SCADA Lab Architecture](architecture/scada_architecture.png)
+
 ## Future Improvements
 
 - Implement additional industrial protocols
