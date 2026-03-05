@@ -10,6 +10,15 @@ common operational issues.
 
 ---
 
+# SCADA Communication & Grid Operations Support
+
+This project simulates a real-world SCADA environment used in industrial automation and grid operations. 
+The lab demonstrates PLC integration, SCADA monitoring using Ignition, database logging, and troubleshooting 
+of industrial communication issues such as network connectivity failures, scripting errors, and port communication problems.
+
+The goal of the project was to understand how distributed industrial systems communicate and how support engineers 
+diagnose and resolve operational issues.
+
 ## Technologies Used
 
 - PLC Programming (Allen Bradley / Studio 5000)
@@ -124,6 +133,24 @@ Each issue was analyzed using logs, network tools, and SCADA diagnostics.
 - Diagnosing network and protocol issues
 
 ---
+
+## Troubleshooting Scenarios
+
+During the lab environment testing, several failure scenarios were intentionally introduced:
+
+- SCADA script execution errors in Ignition
+- TCP communication failures between SCADA and field devices
+- Incorrect PLC network configuration
+- Database query errors
+- Port connectivity failures
+
+These issues were diagnosed using:
+
+- Ignition Gateway logs
+- TCP connection monitoring
+- PowerShell port connectivity tests
+- PLC Ethernet configuration diagnostics
+  
 
 ## System Architecture
 ![SCADA Lab Architecture](architecture/scada_architecture.png)
